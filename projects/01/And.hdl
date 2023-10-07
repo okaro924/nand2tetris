@@ -14,5 +14,10 @@ CHIP And {
     OUT out;
 
     PARTS:
-    // Put your code here:
+    //first gate
+    Nand(a=a, b=b, out=nandOut);
+
+    //second gate to convert the zero to 1, make sure both inputs are connected to first nand
+    Nand(a=nandOut, b=nandOut, out=out);
+    
 }
