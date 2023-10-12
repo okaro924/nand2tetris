@@ -64,8 +64,7 @@ This repository tracks my progress on the Nand2Tetris course. Here's a quick out
 
 | Topic  | Accomplishments                        | Status        |
 | ----- | -------------------------------------- | ------------- |
-| 1     | [ ] Build elementary logic gates       | In Progress   |
-| 2     | [ ] Build ALU                          | Not Started   |
+| 1     | [x] Build elementary logic gates       | Finished  |
+| 2     | [ ] Build ALU                          | Currently Working On  |
 | ...   | ...                                    | ...           |
 
-Feel free to check the code in the corresponding folders for each week's project.
